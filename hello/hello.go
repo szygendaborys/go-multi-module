@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	fmt.Println("I have been called")
 	fmt.Println(reverse.String("Hello"))
 	fmt.Println(reverse.Int(123))
 }
