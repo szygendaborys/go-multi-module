@@ -32,6 +32,7 @@ func main() {
 	PrintVariableFromAnotherModule()
 	PrintMaps()
 	LoopMaps()
+	BillPlayground()
 }
 
 func StandardLibrary() {
